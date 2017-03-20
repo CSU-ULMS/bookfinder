@@ -10,4 +10,8 @@ While it is possible to load PNG or JPEG files to a server to display from Primo
 3.  In "Integration Profiles" Under Alma-> General Administration -> General Configuration -> Configuration Menu -> Integration Profiles, add a URL pointing to the files you uploaded in step on.  The URL must be formatted as follows: http://YOURDOMAIN.edu/maps/geturl.php/?title={title}&callno={call_number}&location_code={location_code}&location_name={location_name}
 4.  Save your changes.
 
+Here is a link to a youtube video showing how this works:https://youtu.be/AU82SBYpX_Y
+
+
+
 Contact: Tyler Rogers, San Diego State University Library
