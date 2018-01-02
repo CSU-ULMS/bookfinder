@@ -12,6 +12,6 @@ While it is possible to load PNG or JPEG files to a server to display from Primo
 
 Here is a link to a youtube video showing how this works:https://youtu.be/AU82SBYpX_Y
 
-
+##SMS Implementation: Jeremy Shellhase added SMS texting to this code.  The files named sms3.php and send_sms.php have SMS functions added.  Thanks Jeremy!
 
 Contact: Tyler Rogers, San Diego State University Library
